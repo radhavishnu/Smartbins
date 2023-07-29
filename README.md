@@ -1,5 +1,5 @@
 ﻿Smart Bins: Managing Waste the smart way.
-
+// Mentor: Dr Sajith Variyar V V (https://scholar.google.com/citations?user=4qN_eKEAAAAJ&hl=en) 
 ![](Aspose.Words.4a5e5949-f9f9-4bd4-8eee-02305a3f0ea1.001.png)
 
 Figure 1: Initial prototype of the proposed model. 
